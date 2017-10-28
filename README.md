@@ -1,4 +1,4 @@
 Practice
 ========
 
-Coding practice from leetcode, codeeval, topcoder, hackerrank etc.
+Coding practice from leetcode, codeeval, topcoder, hackerrank,spoj etc.
